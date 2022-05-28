@@ -1,2 +1,2 @@
 this is my first text document
-i have changed the first commit
+i have changed the first commit and it works fine
